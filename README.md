@@ -1,1 +1,1 @@
-# applied-ai
+# Applied AI
